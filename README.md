@@ -7,4 +7,4 @@ Bibliotecas necessárias para realização da Análise de Dados
 - plotting
 - plotly
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielc&layout=compact)
