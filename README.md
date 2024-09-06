@@ -6,5 +6,3 @@ Bibliotecas necessárias para realização da Análise de Dados
 - streamlit
 - plotting
 - plotly
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielc&layout=compact)
